@@ -1,0 +1,7 @@
+Top 5 Popular Software Design Patterns in 2022:
+
+1- Creational/Singleton
+2- Decorator
+3- Command Design Pattern
+4- Factory Design Pattern
+5- The Observer Pattern

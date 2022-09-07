@@ -1,0 +1,23 @@
+When we use each of them?
+
+1-If your application requires data modeling, or if you have a shorter time-to-market and require a quality solution as final development output,
+then the OOP programming will be a perfect choice.
+
+2-and if you want efficient task processing, you must prefer functional programming.
+
+
+
+Disadvantages of OOP
+
+Steep expectation to learn and adapt: The perspective engaged with object-situated programming may not be normal for certain individuals, and it can invest in some opportunity to become accustomed to it. It is complex to make programs in view of the cooperation of articles. A portion of the key programming procedures, like inheritance and polymorphism, can be tested to appreciate at first.
+Bigger program size: Object-arranged programs commonly include more lines of code than procedural projects.
+More slow projects: Object-arranged programs are normally slower than procedure-based programs, as they ordinarily require more guidelines to be executed.
+Not appropriate for a wide range of issues: There are issues that loan themselves well to useful programming style, rationale programming style, or strategy based programming style, and applying object-arranged programming in those circumstances will not bring about effective projects.
+
+
+
+
+-May lead to unspecified and unexpected results in the sense that a parallel code that would have access to a common resource could do so in a way that produces unspecified results.
+
+– Its methods can have side effects and may put an impact on processors.
+

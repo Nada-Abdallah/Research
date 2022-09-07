@@ -1,0 +1,36 @@
+Tabulation is the systematic and logical representation of figures in rows and columns to ease comparison and statistical analysis. 
+It eases comparison by bringing related information closer to each other and helps further in statistical research and interpretation. 
+In other words, tabulation is a method of arranging or organizing data in a tabular form. The tabulation process may be simple or complex depending upon the type of categorization. 
+
+
+
+the Essential Parts of a Table:
+
+Table Number 
+Title of the Table
+Headnote 
+Column Headings or Captions 
+Row Headings or Stubs 
+Body of a Table
+Footnote
+Source Note
+
+
+
+Types of Tabulation:
+
+Simple Tabulation or One-way Tabulation
+Double Tabulation or Two-way Tabulation
+Complex Tabulation
+
+
+
+What are the Objectives of Tabulation?
+
+For Simplification of Complex Data
+To Highlight Important Information
+To Enable Easy Comparison
+Help in the Statistical Analysis of Data
+Saves Space
+
+
