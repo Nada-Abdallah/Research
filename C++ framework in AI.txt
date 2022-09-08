@@ -1,0 +1,21 @@
+the top 10 C++ frameworks for machine learning:
+
+TensorFlow
+
+Caffe from Berkeley
+
+Microsoft Cognitive Toolkit (CNTK)
+
+mlpack Library
+
+SHARK Library
+
+Armadillo
+
+Faisis
+
+OpenNN
+
+FANN
+ 
+Boosting
